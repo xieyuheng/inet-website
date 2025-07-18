@@ -1,4 +1,4 @@
-import { Rule } from '@cicada-lang/inet-js'
+import { Rule } from '@xieyuheng/inet-js'
 import { NetRendering } from '../../components/net/NetRendering'
 
 export type SelectedRule = {

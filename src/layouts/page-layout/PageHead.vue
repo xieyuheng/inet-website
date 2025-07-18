@@ -58,7 +58,7 @@ const route = useRoute()
 
       <a
         target="_blank"
-        href="https://github.com/cicada-lang/inet-js"
+        href="https://github.com/xieyuheng/inet-js"
         class="mt-1"
       >
         <IconGitHub class="h-5 w-5" />

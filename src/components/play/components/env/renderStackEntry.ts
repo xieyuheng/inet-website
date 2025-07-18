@@ -2,7 +2,7 @@ import {
   Value,
   formatHalfEdgeOtherPort,
   formatValue,
-} from '@cicada-lang/inet-js'
+} from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { renderButton } from '../../components/button/renderButton'
 import { createSelectedValue } from '../../components/env/createSelectedValue'

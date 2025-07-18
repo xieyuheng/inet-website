@@ -1,4 +1,4 @@
-import { Edge, edgeEqual } from '@cicada-lang/inet-js'
+import { Edge, edgeEqual } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { NetRendering } from './NetRendering'
 import { runActiveEdge } from './runActiveEdge'

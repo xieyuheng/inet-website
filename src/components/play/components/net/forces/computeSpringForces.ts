@@ -1,4 +1,4 @@
-import { Net } from '@cicada-lang/inet-js'
+import { Net } from '@xieyuheng/inet-js'
 import { NetLayout } from '../NetLayout'
 import { netNodeNeighbors } from '../netNodeNeighbors'
 import { computeSpringForce } from './computeSpringForce'

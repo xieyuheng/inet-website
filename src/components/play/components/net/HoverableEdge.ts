@@ -1,4 +1,4 @@
-import { HalfEdge } from '@cicada-lang/inet-js'
+import { HalfEdge } from '@xieyuheng/inet-js'
 
 export type HoverableEdge = {
   id: string

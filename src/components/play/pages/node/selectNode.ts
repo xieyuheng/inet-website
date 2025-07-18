@@ -1,4 +1,4 @@
-import { findNodeRuleEntries, presentNode } from '@cicada-lang/inet-js'
+import { findNodeRuleEntries, presentNode } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { createNetRendering } from '../../components/net/createNetRendering'
 import { createRandomNetLayout } from '../../components/net/createRandomNetLayout'

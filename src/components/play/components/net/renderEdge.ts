@@ -2,7 +2,7 @@ import {
   HalfEdge,
   findHalfEdgePortOrFail,
   formatEdge,
-} from '@cicada-lang/inet-js'
+} from '@xieyuheng/inet-js'
 import colors from 'tailwindcss/colors'
 import { edgeDistance } from '../../../../utils/geometry/edgeDistance'
 import { State } from '../../State'

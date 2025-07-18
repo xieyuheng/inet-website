@@ -1,4 +1,4 @@
-import { Mod } from '@cicada-lang/inet-js'
+import { Mod } from '@xieyuheng/inet-js'
 
 export type State = {
   text: string

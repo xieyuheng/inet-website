@@ -4,7 +4,7 @@ import {
   createNet,
   findHalfEdgeEntryOrFail,
   findHalfEdgePortOrFail,
-} from '@cicada-lang/inet-js'
+} from '@xieyuheng/inet-js'
 import { EnvRendering } from '../../components/env/EnvRendering'
 import { createNetRendering } from '../../components/net/createNetRendering'
 import { createRandomNetLayout } from '../../components/net/createRandomNetLayout'

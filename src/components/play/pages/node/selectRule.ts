@@ -1,4 +1,4 @@
-import { presentRule } from '@cicada-lang/inet-js'
+import { presentRule } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { createNetRendering } from '../../components/net/createNetRendering'
 import { createRandomNetLayout } from '../../components/net/createRandomNetLayout'

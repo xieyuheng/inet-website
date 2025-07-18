@@ -1,4 +1,4 @@
-import { NodeDefinition } from '@cicada-lang/inet-js'
+import { NodeDefinition } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { renderButton } from '../../components/button/renderButton'
 import { themeFontSize } from '../../theme/themeFontSize'

@@ -1,4 +1,4 @@
-import { allEdges, findHalfEdgePort, nodeKey } from '@cicada-lang/inet-js'
+import { allEdges, findHalfEdgePort, nodeKey } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { NetRendering } from '../net/NetRendering'
 import { renderCap } from './renderCap'

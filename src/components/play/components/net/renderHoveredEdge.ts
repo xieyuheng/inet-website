@@ -1,5 +1,5 @@
-import { createEnv, findHalfEdgePort, formatValue } from '@cicada-lang/inet-js'
-import { formatPort } from '@cicada-lang/inet-js/lib/lang/port/formatPort'
+import { createEnv, findHalfEdgePort, formatValue } from '@xieyuheng/inet-js'
+import { formatPort } from '@xieyuheng/inet-js/lib/lang/port/formatPort'
 import { State } from '../../State'
 import { themeSize } from '../../theme/themeSize'
 import { NetRendering } from '../net/NetRendering'

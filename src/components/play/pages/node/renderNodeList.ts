@@ -1,4 +1,4 @@
-import { NodeDefinition } from '@cicada-lang/inet-js'
+import { NodeDefinition } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { renderScrollbar } from '../../components/scrollbar/renderScrollbar'
 import { themeSize } from '../../theme/themeSize'

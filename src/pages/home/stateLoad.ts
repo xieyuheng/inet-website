@@ -1,4 +1,4 @@
-import { Fetcher, Loader } from '@cicada-lang/inet-js'
+import { Fetcher, Loader } from '@xieyuheng/inet-js'
 import { State } from './State'
 
 export type StateOptions = {

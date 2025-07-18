@@ -1,4 +1,4 @@
-import { Edge, createEnv, formatEdge, interact } from '@cicada-lang/inet-js'
+import { Edge, createEnv, formatEdge, interact } from '@xieyuheng/inet-js'
 import { vectorMax } from '../../../../utils/vector/vectorMax'
 import { vectorMin } from '../../../../utils/vector/vectorMin'
 import { State } from '../../State'

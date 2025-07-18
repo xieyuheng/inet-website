@@ -3,7 +3,7 @@ import {
   findHalfEdgeEntryOrFail,
   findHalfEdgePort,
   nodeKey,
-} from '@cicada-lang/inet-js'
+} from '@xieyuheng/inet-js'
 
 export function netNodeNeighbors(net: Net, nodeId: string): Set<string> {
   const neighbors: Set<string> = new Set()

@@ -1,4 +1,4 @@
-import { Value, formatValue } from '@cicada-lang/inet-js'
+import { Value, formatValue } from '@xieyuheng/inet-js'
 import { State } from '../../State'
 import { themeFontSize } from '../../theme/themeFontSize'
 

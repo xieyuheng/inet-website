@@ -1,4 +1,4 @@
-import { Env } from '@cicada-lang/inet-js'
+import { Env } from '@xieyuheng/inet-js'
 import { EnvRendering } from './EnvRendering'
 
 export function createEnvRendering(options: {

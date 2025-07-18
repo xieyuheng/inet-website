@@ -1,4 +1,4 @@
-import { FunctionDefinition } from '@cicada-lang/inet-js'
+import { FunctionDefinition } from '@xieyuheng/inet-js'
 import { EnvRendering } from '../../components/env/EnvRendering'
 
 export type SelectedFunction = {

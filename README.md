@@ -1,7 +1,7 @@
 # iNet Website
 
 [ [Visit](https://inet.xieyuheng.com)
-| [Main Repo](https://github.com/cicada-lang/inet-js) ]
+| [Main Repo](https://github.com/xieyuheng/inet-js) ]
 
 ## Development
 
